@@ -5,7 +5,7 @@
 **Geometric Transformations**
   * Scaling
   * Translation
-  * Affine Transfromation
+  * Affine Transfromation [Tutorial - Video](https://www.youtube.com/watch?v=Ad9e5eoHm9U)
   * Prespective Transformation
   
   **Thresholding**
@@ -17,9 +17,15 @@
   * Averaging
   * Median
   * BiLateral
+  * [Smoothing Images Tutorial - Video](https://www.youtube.com/watch?v=xJS979rT1TU)
 
 **Contours**
+ * [Contours Basics](https://www.youtube.com/watch?v=FbR9Xr0TVdY)
+ * [Blog about Contours](https://www.geeksforgeeks.org/find-and-draw-contours-using-opencv-python/)
 
 **Histograms**
 
 **Template Matching**
+
+## Additional Tutorials
+ * [Real time Shape Detection using Contours](youtube.com/watch?v=Fchzk1lDt7Q)
