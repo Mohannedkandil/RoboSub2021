@@ -3,10 +3,10 @@
 ## This Repo for AUV Software Training (Computer Vision)
 
 **Geometric Transformations**
-  * Scaling
-  * Translation
-  * Affine Transfromation [Tutorial - Video](https://www.youtube.com/watch?v=Ad9e5eoHm9U)
-  * Prespective Transformation
+  * Scaling [Code](https://github.com/Mohannedkandil/RoboSub2021/blob/master/Computer%20Vision%20Session/scaling.py)
+  * Translation [Code](https://github.com/Mohannedkandil/RoboSub2021/blob/master/Computer%20Vision%20Session/scaling.py)
+  * Affine Transfromation [Tutorial - Video](https://www.youtube.com/watch?v=Ad9e5eoHm9U) [Code](https://github.com/Mohannedkandil/RoboSub2021/blob/master/Computer%20Vision%20Session/affine_transformation.py)
+  * Prespective Transformation [Code](https://github.com/Mohannedkandil/RoboSub2021/blob/master/Computer%20Vision%20Session/warp_prespective.py)
   
   **Thresholding**
   
@@ -20,14 +20,14 @@
   * [Smoothing Images Tutorial - Video](https://www.youtube.com/watch?v=xJS979rT1TU)
 
 **Contours**
- * [Contours Basics](https://www.youtube.com/watch?v=FbR9Xr0TVdY)
+ * [Contours Basics](https://www.youtube.com/watch?v=FbR9Xr0TVdY) [Code](https://github.com/Mohannedkandil/RoboSub2021/blob/master/Computer%20Vision%20Session/contours.py)
  * [Blog about Contours](https://www.geeksforgeeks.org/find-and-draw-contours-using-opencv-python/)
 
 **Histograms**
  * [Tutorial - Video](https://www.youtube.com/watch?v=F9TZb0XBow0)
 
 **Template Matching**
- * [Tutorial - Video](https://www.youtube.com/watch?v=0gyl7VYGgs8)
+ * [Tutorial - Video](https://www.youtube.com/watch?v=0gyl7VYGgs8) [Code](https://github.com/Mohannedkandil/RoboSub2021/blob/master/Computer%20Vision%20Session/template_matching.py)
 
 ## Additional Tutorials
  * [Real time Shape Detection using Contours](youtube.com/watch?v=Fchzk1lDt7Q)
