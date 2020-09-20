@@ -24,8 +24,10 @@
  * [Blog about Contours](https://www.geeksforgeeks.org/find-and-draw-contours-using-opencv-python/)
 
 **Histograms**
+ * [Tutorial - Video](https://www.youtube.com/watch?v=F9TZb0XBow0)
 
 **Template Matching**
+ * [Tutorial - Video](https://www.youtube.com/watch?v=0gyl7VYGgs8)
 
 ## Additional Tutorials
  * [Real time Shape Detection using Contours](youtube.com/watch?v=Fchzk1lDt7Q)
