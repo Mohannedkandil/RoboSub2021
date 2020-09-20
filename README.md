@@ -1,4 +1,3 @@
-![RoboSub](https://drive.google.com/file/d/1M9S0rzI_TkMD38_ogBP04bN9xiJqu-uk/view?usp=sharing)
 # RoboSub2021
 
 ## This Repo for AUV Software Training (Computer Vision)
